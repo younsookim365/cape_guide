@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051301523731",
+    "project_id": "cape-guide-66b5f",
+    "storage_bucket": "cape-guide-66b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051301523731:android:fd0921f666012f56bbeae6",
+        "android_client_info": {
+          "package_name": "com.example.capeguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHoC8VhEXfEn6y6E_AmiySQrFv31froc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
